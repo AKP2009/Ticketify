@@ -1,0 +1,96 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+  }
+  
+  .signup-container {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #ffebee;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+  }
+  
+  .signup-box {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 15px;
+    box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    width: 420px;
+    margin: 2rem;
+  }
+  
+  .signup-box h2 {
+    font-size: 1.6rem;
+    color: #b71c1c;
+    margin-bottom: 0.5rem;
+  }
+  
+  .input-box {
+    margin-bottom: 0.6rem;
+    text-align: left;
+  }
+  
+  .input-box label {
+    display: block;
+    font-size: 0.8rem;
+    color: #333;
+    margin-bottom: 0.4rem;
+  }
+  
+  .input-box input {
+    width: 100%;
+    padding: 0.3rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 0.8rem;
+  }
+  
+  .input-box input:focus {
+    border-color: #b71c1c;
+    outline: none;
+  }
+  
+  .signup-buttons {
+    margin-top: 1rem;
+  }
+  
+  .cta-button {
+    background-color: #b71c1c;
+    color: white;
+    padding: 0.7rem 1.4rem;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    font-weight: bold;
+    transition: all 0.3s ease;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .cta-button:hover {
+    transform: scale(1.05);
+  }
+  
+  .signup-buttons p {
+    margin-top: 1rem;
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+  }
+  
+  .signup-buttons p a {
+    color: #b71c1c;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .signup-buttons p a:hover {
+    text-decoration: underline;
+  }
+  
