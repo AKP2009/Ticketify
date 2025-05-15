@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Ticketify/static/css/main.289c66dc.css",
+    "main.js": "/Ticketify/static/js/main.034af84d.js",
+    "static/js/453.c5233943.chunk.js": "/Ticketify/static/js/453.c5233943.chunk.js",
+    "static/media/ComicConImage.png": "/Ticketify/static/media/ComicConImage.46860404f43331f26be5.png",
+    "static/media/avengers.png": "/Ticketify/static/media/avengers.1451727de0b38f9a0a54.png",
+    "static/media/TheDarkKnight.png": "/Ticketify/static/media/TheDarkKnight.17f958d16efcce71ab50.png",
+    "static/media/ComicConBig.png": "/Ticketify/static/media/ComicConBig.822ed22273e3b8bcdb69.png",
+    "static/media/ArtExhImage.png": "/Ticketify/static/media/ArtExhImage.6b0dddcca35ae6885960.png",
+    "static/media/Promotion.png": "/Ticketify/static/media/Promotion.04d693a5f3ff6428ef8a.png",
+    "static/media/TaylorSwift.png": "/Ticketify/static/media/TaylorSwift.b004847c2592b4b3a2df.png",
+    "static/media/ColdplayImage.png": "/Ticketify/static/media/ColdplayImage.76e6332e25838f5ff348.png",
+    "static/media/Inception.png": "/Ticketify/static/media/Inception.8690e1d551553f9b595b.png",
+    "static/media/Interstellar.png": "/Ticketify/static/media/Interstellar.8a9ee85873067abeea46.png",
+    "static/media/FightClub.png": "/Ticketify/static/media/FightClub.382fecd24f8d80eb22a2.png",
+    "static/media/Parasite.png": "/Ticketify/static/media/Parasite.48d3f09b73c5b0b96795.png",
+    "static/media/TechExpoImage.png": "/Ticketify/static/media/TechExpoImage.b26b1dca5c5a794e6d04.png",
+    "static/media/weekendImage.png": "/Ticketify/static/media/weekendImage.c3e19a138ff57b46372c.png",
+    "static/media/FoodFestImage.png": "/Ticketify/static/media/FoodFestImage.8e5ec46470925cfad642.png",
+    "static/media/shawshank.png": "/Ticketify/static/media/shawshank.7f053d18f5c67fbf3758.png",
+    "index.html": "/Ticketify/index.html",
+    "main.289c66dc.css.map": "/Ticketify/static/css/main.289c66dc.css.map",
+    "main.034af84d.js.map": "/Ticketify/static/js/main.034af84d.js.map",
+    "453.c5233943.chunk.js.map": "/Ticketify/static/js/453.c5233943.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.289c66dc.css",
+    "static/js/main.034af84d.js"
+  ]
+}
